@@ -1,0 +1,29 @@
+Notas de la clase 01:
+--------------------
+
+html:
+head-body
+meta---> charset ="utf -8"
+
+header = cabecera
+nav = navegacion. para menu de navegacion.
+ul = lista no numerada
+li = elemento de la lista
+section = tag de seccion.
+h1 = para titulos del 1 al 6 por tamaños
+a = ancla. link para ir a una seccion del sitio
+footer = pie
+
+link rel --> para gregar hoja de estilos
+
+
+css : en cascada
+
+#282828 hexadecimal de la a a la f para completar
+
+display:inline --> muestralo en linea.
+class = clase --> elemento modificador .solo los elementos de esta clase se comportaran de esa manera que yo le indique.
+
+font-family: sans-serif ---> sin punta sin remates
+
+<link href="https://fonts.googleapis.com/css?family=Monserrat:400,700"> ---> api de estilos 400 es el grosor normal, traemos 700 para usarla tambien
